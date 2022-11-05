@@ -73,6 +73,8 @@
     font-size: 14px;
     line-height: 20px;
     color: rgba(255, 255, 255, 1);
+    padding-left: 30px;
+ padding-top: 10px;
    
 }
 .button
@@ -91,6 +93,8 @@
  font-size: 14px;
  line-height: 20px;
  color: rgba(65, 65, 65, 1);
+ padding-left: 30px;
+ padding-top: 10px;
  
 }
 .picture
@@ -147,6 +151,8 @@
     font-size: 14px;
     line-height: 20px;
     color: rgba(255, 255, 255, 1);
+    padding-left: 50px;
+ padding-top: 15px;
    
 }
 .button2
@@ -165,6 +171,8 @@
  font-size: 14px;
  line-height: 20px;
  color: rgba(65, 65, 65, 1);
+ padding-left: 45px;
+ padding-top: 15px;
 }
 .info1
 {
@@ -245,8 +253,8 @@ border-radius: 0px;
 .texth3
 {
 position: absolute;
-Width: 158px;
 Height: 64px;
+display: block;
 Top: 15px;
 Left: 643px;
 font-family: 'Playfair Display';
@@ -259,7 +267,7 @@ color: #414141;
 }
 .texth4{
 height: 64px;
-width: 174px;
+
 left: 801px;
 top: 1478px;
 border-radius: nullpx;
@@ -337,6 +345,8 @@ font-weight: 700;
 font-size: 16px;
 line-height: 20px;
 color: #414141;
+padding-left: 45px;
+padding-top: 15px;
 }
 .third
 {
@@ -664,6 +674,8 @@ text-align: left;
     font-size: 14px;
     line-height: 20px;
     color: rgba(65, 65, 65, 1);
+    padding-left: 45px;
+    padding-top: 15px;
 }
 .picture14
 {
