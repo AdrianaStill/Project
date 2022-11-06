@@ -239,14 +239,15 @@ margin-left: 30px;
 width: 1186.5px;
 height: 1136px;
 left: 246.5px;
-top: 1478px;
+margin-top: 100px;
+margin-bottom: 300px;
 }
 .picture6
 {
 height: 551px;
 width: 504.5px;
 left: 220px;
-margin-top: 500px;
+margin-top: 350px;
 border-radius: 0px;
 
 }
@@ -264,6 +265,7 @@ font-size: 48px;
 line-height: 64px;
 text-align: center;
 color: #414141;
+margin-bottom: 1000px;
 }
 .texth4{
 height: 64px;
@@ -283,8 +285,8 @@ color: #69A08A;
 {
 height: 28px;
 width: 228px;
-left: 846px;
-top: 1572px;
+margin-left: 156px;
+margin-top: 50px;
 border-radius: nullpx;
 font-family: Open Sans;
 font-size: 19px;
@@ -295,7 +297,7 @@ text-align: center;
 }
 .info3
 {
-    margin-top: -500px;
+    margin-top: -400px;
     margin-left: 697px;
 }
 .texth5
@@ -353,7 +355,7 @@ padding-top: 15px;
     width: 836px;
     height: 253px;
     margin-left: 551px;
-    margin-top: 100px;
+    margin-top: 200px;
 }
 .picture7
 {
@@ -628,7 +630,8 @@ text-align: center;
     height: 808px;
 width: 1337px;
 margin-left: -100px;
-margin-top: 200px;
+margin-top: 100px;
+margin-bottom: 200px;
 border-radius: [object Object]px;
 }
 .texth13
@@ -740,6 +743,11 @@ letter-spacing: 0em;
 text-align: center;
 
 
+}
+.third1
+{
+    margin-top: -250px;
+    margin-bottom: 300px;
 }
 .textmini17
 {
